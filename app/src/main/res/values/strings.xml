@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">ReporteCiudadano</string>
+    <string name="titulo_reporte_ciudadano">Registro</string>
+    <string name="hint_tipo_incidente">Seleccionar tipo de usuario</string>
+    <string name="hint_ubicacion">Ingresar nombre</string>
+    <string name="hint_descripcion">Ingresar Contraseña</string>
+    <string name="label_fecha">Fecha:</string>
+    <string name="btn_registrar_usuario">Registrar Usuario</string>
+    <string name="btn_login">Iniciar Sesion</string>
+
+    <string-array name="TipoUsuario">
+        <item>Ciudadano transeunte</item>
+        <item>Ciudadano responsable de ingresar estadisticas</item>
+        <item>Ciudadano resoponsable de tomar descisiones</item>
+      </string-array>
+
+    <!-- Formato de fecha -->
+    <string name="fecha_formato">dd-MM-yyyy HH:mm:ss</string>
+
+    <!-- Formulario Login -->
+        <string name="login_titulo">Inicio de Sesión</string>
+        <string name="hint_usuario">Usuario</string>
+        <string name="hint_password">Contraseña</string>
+        <string name="btn_iniciar_sesion">Iniciar Sesión</string>
+        <string name="btn_registrarse">Registrarse</string>
+
+
+
+</resources>
